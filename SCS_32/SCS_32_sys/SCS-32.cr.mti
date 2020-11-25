@@ -1,0 +1,60 @@
+D:/work3_kscste/SCS_32/SCS_32_sys/encoder.v {1 {vlog -work work -stats=none D:/work3_kscste/SCS_32/SCS_32_sys/encoder.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module exor
+-- Compiling module T4stst
+-- Compiling module T2
+-- Compiling module ones
+-- Compiling module encoder
+
+Top level modules:
+	encoder
+
+} {} {}} D:/work3_kscste/SCS_32/SCS_32_sys/enc_dec.v {1 {vlog -work work -stats=none D:/work3_kscste/SCS_32/SCS_32_sys/enc_dec.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module exor
+-- Compiling module T4stst
+-- Compiling module T2
+-- Compiling module ones
+-- Compiling module encoder
+-- Compiling module decoder
+-- Compiling module top_level
+
+Top level modules:
+	top_level
+
+} {} {}} D:/work3_kscste/SCS_32/SCS_32_sys/decoder.v {1 {vlog -work work -stats=none D:/work3_kscste/SCS_32/SCS_32_sys/decoder.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module decoder
+
+Top level modules:
+	decoder
+
+} {} {}} D:/work3_kscste/router/router_arch_test.v {1 {vlog -work work -stats=none D:/work3_kscste/router/router_arch_test.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module arbiter
+-- Compiling module eject_block
+-- Compiling module eject_engine
+-- Compiling module mux
+-- Compiling module five_bit_nor
+-- Compiling module priority_encoder
+-- Compiling module injection_engine
+-- Compiling module port_assignment_stage1
+-- Compiling module exchanger_stage1
+-- Compiling module permuter_stage1
+-- Compiling module port_assignment_stage2
+-- Compiling module exchanger_stage2
+-- Compiling module permuter_stage2
+-- Compiling module permutation_engine
+-- Compiling module router_arch
+
+Top level modules:
+	router_arch
+
+} {} {}} D:/work3_kscste/SCS_32/SCS_32_sys/SCS_32_BUFFER_VERSION.v {1 {vlog -work work -stats=none D:/work3_kscste/SCS_32/SCS_32_sys/SCS_32_BUFFER_VERSION.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module pseudo_encoder_buffer
+
+Top level modules:
+	pseudo_encoder_buffer
+
+} {} {}}

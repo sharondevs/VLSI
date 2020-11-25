@@ -1,0 +1,7 @@
+module decoder(output [31:0] out, input [31:0]in);
+	reg [30:0]temp;
+	always@(in) begin
+	temp = in[30:0] ^ {31{in[31]}};
+	end
+	assign out = temp;
+endmodule

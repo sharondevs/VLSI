@@ -1,0 +1,57 @@
+D:/work3(kscste)/SCS-32/T2.v {1 {vlog -work work -stats=none D:/work3(kscste)/SCS-32/T2.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module T2
+
+Top level modules:
+	T2
+
+} {} {}} D:/work3(kscste)/SCS-32/T4stst.v {1 {vlog -work work -stats=none D:/work3(kscste)/SCS-32/T4stst.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module T4stst
+
+Top level modules:
+	T4stst
+
+} {} {}} D:/work3(kscste)/SCS-32/decoder.v {1 {vlog -work work -stats=none D:/work3(kscste)/SCS-32/decoder.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module decoder
+
+Top level modules:
+	decoder
+
+} {} {}} D:/work3(kscste)/SCS-32/encoder_test.v {1 {vlog -work work -stats=none D:/work3(kscste)/SCS-32/encoder_test.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module test_enc
+
+Top level modules:
+	test_enc
+
+} {} {}} D:/work3(kscste)/SCS-32/encoder.v {1 {vlog -work work -stats=none D:/work3(kscste)/SCS-32/encoder.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module encoder
+
+Top level modules:
+	encoder
+
+} {} {}} D:/work3(kscste)/SCS-32/xor.v {1 {vlog -work work -stats=none D:/work3(kscste)/SCS-32/xor.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module exor
+
+Top level modules:
+	exor
+
+} {} {}} D:/work3(kscste)/SCS-32/ones.v {1 {vlog -work work -stats=none D:/work3(kscste)/SCS-32/ones.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module ones
+
+Top level modules:
+	ones
+
+} {} {}} D:/work3(kscste)/SCS-32/decoder_test.v {1 {vlog -work work -stats=none D:/work3(kscste)/SCS-32/decoder_test.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module test_dec
+
+Top level modules:
+	test_dec
+
+} {} {}}
