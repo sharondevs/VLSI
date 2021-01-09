@@ -1,4 +1,3 @@
-# Bufferless Deflection design
+## Network on Chip 
 
-This repo has the bufferless CHIPPER architecture verilog modelling that I have coded, while doing my research, funded by KSCSTE.
-The repo also has some of the existing encoding/decoding schemes that are implemented in Verilog HDL as well.
+Works related to data encoding and encryption schemes for NoCs as part of research work.
